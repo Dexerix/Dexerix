@@ -1,9 +1,9 @@
 # 
 ## 💫 About Me:
 - 📚 I currently study computer science in the EPTM, Sion, Switzerland
-- 🗓 Entering my second year of apprenticeship while specialising in networking
+- 🗓 Entering my third year of apprenticeship while specialising in networking
 - 👀 Learning to code by myself (Still asking help to coder friends and AI)
-- 🖥️ Both Linux and Windows user
+- 🖥️ I use NixOS btw
 
 
 ## 🌐 Socials:
